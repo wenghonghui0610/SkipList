@@ -3,4 +3,4 @@ project(SkipList)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(SkipList main.cpp base/Node.h base/Random.h)
+add_executable(SkipList main.cpp base/Node.h base/Random.h base/SkipList.h)
